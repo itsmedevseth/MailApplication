@@ -1,0 +1,6 @@
+first name:piseth
+Last name:nem
+Email:piseth.nem@department.Company.com
+Password: 1234
+Capacity500
+Alternate mailhello
